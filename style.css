@@ -3724,7 +3724,7 @@ body {
   position: fixed;
   inset: 0;
   z-index: -3;
-  background: url("IMG_7615.jpg") center/cover no-repeat;
+  background: url("https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Logo/Reg_Background.JPG") center/cover no-repeat;
   opacity: 0.8;
   filter: saturate(1.05) contrast(1.03);
 }
