@@ -3805,8 +3805,7 @@ body {
 .reg-card {
   background: radial-gradient(circle at top left, #ecfeff 0, #ffffff 55%, #f5f3ff 100%);
   border-radius: 26px;
-  padding: 26px 22px 40
-  px;
+  padding: 26px 22px 40px;
   box-shadow:
     0 22px 45px rgba(15, 23, 42, 0.35),
     0 0 0 1px rgba(255, 255, 255, 0.6);
