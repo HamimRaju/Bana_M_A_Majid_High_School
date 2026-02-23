@@ -773,52 +773,77 @@ const teachersBottom = [
     photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/WhatsApp%20Image%202026-01-03%20at%2003.07.48.jpeg",
   },
   {
-    name: "মাওলানা আব্দুল বাসেত",
+    name: "মো : কামরুজ্জামান ",
     role: "শিক্ষক",
-    photo: "../Images/rajuImg.jpg",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/Kamruzzaman.jpg",
   },
   {
-    name: "মাওলানা আল আমিন",
+    name: "মোনেরা আইরিন ",
     role: "শিক্ষক",
-    photo: "../Images/rajuImg.jpg",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/Monera%20Irin.jpg",
   },
   {
-    name: "হাফেজ আলী আকবর",
+    name: "নীতিশ কুমার মণ্ডল",
     role: "শিক্ষক",
-    photo: "../Images/rajuImg.jpg",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/Nitish%20Kumar%20Mondol.jpg",
   },
   {
-    name: "মোঃ মোশাররফ হোসেন",
+    name: "মোঃ ওবায়দুর রহমান",
     role: "শিক্ষক",
-    photo: "../Images/rajuImg.jpg",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/Obaydur.jpg",
   },
 ];
 
 const moreTeachers = [
   {
-    name: "মোঃ মোজাম্মেল হক",
-    role: "অফিস সহকারী",
-    photo: "../Images/rajuImg.jpg",
+    name: "সুমন সেন ",
+    role: "শিক্ষক (বাংলা)",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/WhatsApp%20Image%202026-01-03%20at%2003.07.46.jpeg",
   },
   {
-    name: "আলেমা তাহারা",
-    role: "শিক্ষিকা",
-    photo: "../Images/rajuImg.jpg",
+    name: "রাফেজা পারভীন ",
+    role: "শিক্ষিকা (ইংরেজি)",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/WhatsApp%20Image%202026-01-03%20at%2003.07.47%20(1).jpeg",
   },
   {
-    name: "আলেমা সাদিকা",
-    role: "শিক্ষিকা",
-    photo: "../Images/rajuImg.jpg",
+    name: "হাদী সাহেব আলী ",
+    role: "শিক্ষক",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/WhatsApp%20Image%202026-01-03%20at%2003.07.47.jpeg",
   },
   {
-    name: "মালেকা যাদিয়া",
-    role: "শিক্ষিকা",
-    photo: "../Images/rajuImg.jpg",
+    name: "মানবেন্দ্র সাহা ",
+    role: "শিক্ষক (গণিত)",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/WhatsApp%20Image%202026-01-03%20at%2003.07.48%20(1).jpeg",
   },
   {
-    name: "আরিফা আক্তার",
-    role: "শিক্ষিকা",
-    photo: "../Images/rajuImg.jpg",
+    name: "মো: কামাল শেখ ",
+    role: "শিক্ষক (ইংরেজি)",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/WhatsApp%20Image%202026-01-03%20at%2003.07.48%20(2).jpeg",
+  },
+  {
+    name: "মো: জাকির হোসেন ",
+    role: "শিক্ষক (হিসাববিজ্ঞান)",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/WhatsApp%20Image%202026-01-03%20at%2003.07.48.jpeg",
+  },
+  {
+    name: "মো : কামরুজ্জামান ",
+    role: "শিক্ষক",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/Kamruzzaman.jpg",
+  },
+  {
+    name: "মোনেরা আইরিন ",
+    role: "শিক্ষক",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/Monera%20Irin.jpg",
+  },
+  {
+    name: "নীতিশ কুমার মণ্ডল",
+    role: "শিক্ষক",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/Nitish%20Kumar%20Mondol.jpg",
+  },
+  {
+    name: "মোঃ ওবায়দুর রহমান",
+    role: "শিক্ষক",
+    photo: "https://raw.githubusercontent.com/HamimRaju/Bana_M_A_Majid_High_School/refs/heads/main/Images/Teachers/Obaydur.jpg",
   },
 ];
 
