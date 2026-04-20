@@ -1385,7 +1385,6 @@ document.addEventListener("DOMContentLoaded", function () {
       closeRegOverlay();
     });
   }
-
   // ESC key
   window.addEventListener("keydown", function (e) {
     if (e.key === "Escape" && regOverlay.classList.contains("active")) {
